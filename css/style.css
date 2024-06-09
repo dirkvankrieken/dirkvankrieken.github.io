@@ -1,0 +1,77 @@
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
+body {
+	display: flex;
+	font-size: 14px;
+	flex-direction: column;
+	padding: 0;
+	margin: 0;
+	font-family: "Inter", sans-serif;
+	background-color: hsl(0, 0%, 8%);
+	color: hsl(0, 0%, 100%);
+	min-height: 100vh;
+}
+
+main {
+	text-align: center;
+	width: 384px;
+	margin: auto;
+	background-color: hsl(0, 0%, 12%);
+	border-radius: 12px;
+}
+
+main img {
+	margin-top: 45px;
+	border-radius: 50%;
+	width: 88px;
+	height: 88px;
+}
+
+main h1 {
+	font-size: 24px;
+	font-weight: 500;
+}
+
+main h2 {
+	color: hsl(75, 94%, 57%);
+	font-size: 14px;
+}
+
+main a {
+	color: hsl(0, 0%, 100%);
+	text-decoration: none;
+    display: block;
+	padding: 0.875em;
+
+}
+
+main ul {
+	padding: 0;
+	margin: 10px auto 40px;
+	text-align: center;
+}
+
+main li {
+	font-weight: 600;
+	align-items: center;
+	margin: 20px auto;
+	width: 304px;
+	list-style-type: none;
+	background-color: hsl(0, 0%, 20%);
+	border-radius: 8px;
+}
+
+main li:hover {
+	background-color: hsl(75, 94%, 57%);
+}
+
+main a:hover {
+	color: hsl(0, 0%, 8%);
+}
