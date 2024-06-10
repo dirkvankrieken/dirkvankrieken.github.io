@@ -49,7 +49,6 @@ main a {
 	text-decoration: none;
     display: block;
 	padding: 0.875em;
-
 }
 
 main ul {
@@ -75,3 +74,4 @@ main li:hover {
 main a:hover {
 	color: hsl(0, 0%, 8%);
 }
+

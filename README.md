@@ -37,7 +37,7 @@ Users should be able to:
 
 ### What I learned
 
-Choosing the right font-weights.
+Improved my skill of using Flexbox for lay-out.
 
 ## Author
 
