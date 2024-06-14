@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/dirkvankrieken/Social-Links-Profile](https://github.com/dirkvankrieken/Social-Links-Profile)
-- Live Site URL: [https://dirkvankrieken.github.io/Social-Links-Profile](https://dirkvankrieken.github.io/Social-Links-Profile)
+- Solution URL: [https://github.com/dirkvankrieken/dirkvankrieken.github.io](https://github.com/dirkvankrieken/dirkvankrieken.github.io)
+- Live Site URL: [https://dirkvankrieken.github.io/](https://dirkvankrieken.github.io/)
 
 ## My process
 
